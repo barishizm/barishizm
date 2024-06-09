@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barishizm&label=Profile%20views&color=0e75b6&style=flat" alt="barishizm" /> </p>
 
-- 🔭 I’m currently working on **WebSite**
+- 🔭 I’m currently working on **Voice Assistant**
 
-- 🌱 I’m currently learning **Python,css,js,C#**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **AI Systems**
 
