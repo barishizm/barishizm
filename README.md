@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning Python, PHP, JS
 
-👯 I’m looking to collaborate on AI Systems
-
 📫 How to reach me mbakinti@outlook.com
 
 ## 🌐Socials
