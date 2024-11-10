@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on Voice Assistant
+🔭 I’m currently working on Portfolio WebSite
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python, PHP, JS
 
 👯 I’m looking to collaborate on AI Systems
 
