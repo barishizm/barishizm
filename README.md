@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on IBM Data Analyst Professional Certificate
+🔭 I’m currently working on AI Data Annotation
 
 🌱 I’m currently learning Python, PHP, JS
 
