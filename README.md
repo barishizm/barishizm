@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on AI Data Annotation
 
-🌱 I’m currently learning Python, PHP, JS
+🌱 I’m currently learning Python, Scikit.
 
 📫 How to reach me mbakinti@outlook.com
 
