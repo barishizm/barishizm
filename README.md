@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on AI Data Annotation
+🔭 I’m currently working on Deep Learning and Natural Language Processing.
 
 🌱 I’m currently learning Python, Scikit.
 
