@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Python, Scikit, Spacy, NLTK...
 
-📫 How to reach me mbakinti@outlook.com
+📫 How to reach me barishizm@proton.me
 
 ## 🌐Socials
 <p align="center">
