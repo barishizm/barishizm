@@ -24,11 +24,6 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </p>
 
-# 📊GitHub Stats :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barishizm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-</p>
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barishizm&color=grey&base=10000&abbreviated=true" alt="Profile views" />
