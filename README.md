@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on Deep Learning and Natural Language Processing.
+🔭 I’m currently working on AI/MLOps Engineering.
 
-🌱 I’m currently learning Python, Scikit, Spacy, NLTK...
+🌱 I’m currently learning TensorFlow, PyTorch, Keras...
 
 📫 How to reach me barishizm@proton.me
 
