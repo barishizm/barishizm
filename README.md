@@ -20,7 +20,7 @@
 <a href="https://twitter.com/barishizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barishizm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/barishizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barishizm" height="30" width="40" /></a>
 <a href="https://kaggle.com/barishizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="barishizm" height="30" width="40" /></a>
-<a href="https://fb.com/barishizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barishizm" height="30" width="40" /></a>
+<a href="https://fb.com/barishzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barishzm" height="30" width="40" /></a>
 <a href="https://instagram.com/barishizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barishizm" height="30" width="40" /></a>
 </p>
 
