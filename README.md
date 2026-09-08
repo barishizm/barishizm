@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barishizm&label=Profile%20views&color=0e75b6&style=flat" alt="barishizm" /> </p>
 
-<h3>More About</h3>
+<h3>More About:</h3>
 
 - 👨‍💻 All of my projects are available at www.barishizm.eu
 
